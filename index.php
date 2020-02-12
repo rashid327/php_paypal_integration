@@ -6,7 +6,6 @@
 
 <body>
   <div id="paypal-button"></div>
-
   <script>
     paypal.Button.render({
       env: 'production', // Or 'sandbox',
