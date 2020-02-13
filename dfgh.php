@@ -1,4 +1,4 @@
-   <div class="row m-1" id="shopInfo1">
+   <div class="row m-1" id="shopInfo1"> <!-->
         <div class="card col-md-12 p-0">
             <div class="card-header">
                 <h4>Shop's Info</h4>
