@@ -16,7 +16,6 @@
         color: 'gold',
         size: 'small'
       },
-
       payment: function(data, actions) {
        
     //      return actions.payment.create({
