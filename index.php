@@ -11,7 +11,6 @@
       env: 'production', // Or 'sandbox',
 
       commit: true, // Show a 'Pay Now' button
-
       style: {
         color: 'gold',
         size: 'small'
