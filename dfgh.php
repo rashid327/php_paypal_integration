@@ -76,6 +76,8 @@
                             <div class="col-sm-6">
                                 <b>Vicinity: </b><span class="ml-2 mr-2" >{{$retailer->vicinity}}</span>
                             </div>
+
+
                             <div class="col-sm-6">
                                 <b>Premises: </b><span class="ml-2 mr-2" >{{$retailer->premises}}</span>
                             </div>
